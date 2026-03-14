@@ -1,0 +1,1 @@
+staring a static website
